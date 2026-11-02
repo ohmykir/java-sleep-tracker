@@ -17,9 +17,11 @@ public class SleepingSession {
     public LocalDateTime getStartTime() {
         return startTime;
     }
+
     public LocalDateTime getEndTime() {
         return endTime;
     }
+
     public SleepQuality getQuality() {
         return quality;
     }
